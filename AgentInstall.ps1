@@ -41,4 +41,3 @@ if ($Automate.Installed -and $Automate.ServerAddress -eq "https://$Server") {
         exit 1001
     }
 }
-
